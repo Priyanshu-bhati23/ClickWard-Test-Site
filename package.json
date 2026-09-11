@@ -1,0 +1,8 @@
+{
+  "name": "clickward-test-site",
+  "version": "1.0.0",
+  "description": "BuildFast - Demo customer website for ClickWard A/B testing",
+  "scripts": {
+    "start": "npx serve ."
+  }
+}
